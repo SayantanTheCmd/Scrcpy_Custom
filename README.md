@@ -45,9 +45,6 @@ By using VorteX, you **agree to these terms**.
 - **Windows 10 / 11** (64-bit recommended)  
 - Fully portable — no additional installation required  
 
----
-
-## 📸 Screenshots & GIFs
 <img width="972" height="530" alt="img1" src="https://github.com/user-attachments/assets/74e872db-0463-4fd1-a0e4-b300b2307cd5" />
 
 ---
