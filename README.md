@@ -1,97 +1,56 @@
-# 🖥️ Scrcpy Custom
+# 🌀 VorteX v3.1 – Headless & GUI Android Control
 
-> ⚡ A modern, feature-rich GUI for scrcpy with performance controls and a sleek animated UI
-
----
-
-## 🌟 Preview
-<img width="972" height="518" alt="preview" src="https://github.com/user-attachments/assets/207eddcd-0381-49de-9ec8-2ab31d5c5c34" />
+**VorteX is a modern, gaming-focused GUI and headless wrapper ScreenCast Exclusively designed for ultimate convenience, performance, and portability.**
 
 ---
 
 ## 🚀 Features
 
-✨ Clean glass-style UI  
-🌈 RGB animated branding  
-📱 Wired & Wireless connection support  
-⚡ Performance presets (FPS, resolution, render driver)  
-🔊 Toggle audio support  
-🧠 Built-in help & setup guide  
-🎮 Optimized for smooth Android mirroring  
+- **Dual Mode:** Headless & GUI mode for flexible Android device control  
+- **Wired & Wireless Control:** Connect via USB or WiFi  
+- **Custom RGB GUI:** Glassy interface with animated labels, buttons, and branding  
+- **Integrated Configuration:** FPS, resolution, bitrate, audio, render drivers, and performance presets  
+- **Portable:** Fully packaged for Windows, no Python installation required  
+- **Silent Execution:** GUI launches without any console windows  
+- **Automatic Device Handling:** Restart scrcpy automatically if needed  
+- **Performance Presets:** Quick presets from Basic → Ultra V2  
 
 ---
 
-## 📦 Installation
+## ⚙️ Built With
 
-### 🔹 Method 1 (Recommended)
-1. Go to **Releases**
-2. Download `Scrcpy_Custom_Setup.exe`
-3. Run installer
-4. Launch and enjoy 🎉
-
----
-
-## ⚙️ Requirements
-
-- Windows 10 / 11  
-- Android device  
-- USB Debugging enabled  
+- Python 3.11  
+- PySide6 (GUI Framework)  
+- Scrcpy binaries (adb, scrcpy.exe, and supporting libraries)  
+- NSIS for Windows installer creation  
 
 ---
 
-## 📱 How to Enable USB Debugging
+## 🖥️ App Compatibility
 
-1. Go to **Settings → About Phone**  
-2. Tap **Build Number** 7 times  
-3. Go to **Developer Options**  
-4. Enable **USB Debugging**  
+- **Windows 10 / 11** (64-bit recommended)  
+- Fully portable — no additional installation required  
 
 ---
 
-## 🎮 Usage
+## 📸 Screenshots & GIFs
 
-- 🔌 **Wired Mode** → Plug USB and click Run  
-- 📡 **Wireless Mode** → Enable TCP/IP and connect  
 
----
-
-## 🧠 Built With
-
-- Python 🐍  
-- PySide6 🖼️  
-- scrcpy ⚡  
 
 ---
 
-## 💡 Why Scrcpy Custom?
+## 👤 Creator
 
-Because the default scrcpy:
-- ❌ No UI  
-- ❌ No presets  
-- ❌ No customization  
+Sayantan J  
 
-👉 This fixes all of that with style 😎
+- YouTube: [TheValBoi](https://www.youtube.com/@TheValBoi)  
+- Discord: [VorteX Community](https://discord.gg/wUMADPBuF4)  
 
 ---
 
-## 👨‍💻 Developer
+## 💡 Notes
+VorteX is the new name of the application it was formerly Scrcpy_Custom . 
+So it is advised to ignore downloading v1.0 because it is my old first unstable version of VorteX formerly Scrcpy_Custom
 
-**Sayantan Pro**
-
-> Built with passion ❤️ and too much debugging 💀
-
----
-
-## ⭐ Support
-
-If you like this project:
-
-👉 Star the repo ⭐  
-👉 Share with friends 🚀  
-
----
-
-## 📜 License
-
-Free to use & modify  
-Give credit if you remix 💙
+- Keep `Assets` folder and other files together with the executable for proper functionality  
+-
