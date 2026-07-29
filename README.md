@@ -1,7 +1,7 @@
 <div align="center">
   
   # <img width="100" height="100" alt="tornado" src="https://github.com/user-attachments/assets/911dc20f-693d-4249-90ad-be3f43f3251e" />
- VorteX v3.1 – Headless & GUI Android Control
+ VorteX Eye – Headless & GUI Android Control
   
   **VorteX is a modern, gaming-focused GUI and headless wrapper ScreenCast Exclusively designed for ultimate convenience, performance, and portability.**
   
@@ -16,7 +16,7 @@
 
 ---
 
-# 🛑 VorteX v3.1 – Strict Proprietary Software 🛑
+# 🛑 VorteX Eye – Strict Proprietary Software 🛑
 
 **© 2026 Sayantan J. All Rights Reserved.**
 
