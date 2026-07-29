@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/eb6faa77-9444-48c1-87bb-d2a6ae715813-thumbnail-placeholder.png" alt="VorteX Logo" width="200" />
   
-  # 🌀 VorteX v3.1 – Headless & GUI Android Control
+  # <img width="100" height="100" alt="tornado" src="https://github.com/user-attachments/assets/911dc20f-693d-4249-90ad-be3f43f3251e" />
+ VorteX v3.1 – Headless & GUI Android Control
   
   **VorteX is a modern, gaming-focused GUI and headless wrapper ScreenCast Exclusively designed for ultimate convenience, performance, and portability.**
   
